@@ -61,7 +61,7 @@ feature usage, and support performance for a SaaS business.
 -   Improve support response and satisfaction.
 
 ## 📷 Dashboard Preview
- ![Dashboard Preview](Customer Retention & Churn Analysis .png)
+ ![Dashboard Preview](https://github.com/Narendraparjapat123/FUTURE_DS_02/blob/main/Customer%20Retention%20&%20Churn%20Analysis%20.png?raw=true)
  
 ## Tools
 
