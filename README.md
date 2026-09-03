@@ -60,8 +60,9 @@ feature usage, and support performance for a SaaS business.
 -   Promote high-value plans.
 -   Improve support response and satisfaction.
 
-![Customer Retention & Churn Analysis](Customer Retention & Churn Analysis.png)
-
+## 📷 Dashboard Preview
+ ![Dashboard Preview](Customer Retention & Churn Analysis .png)
+ 
 ## Tools
 
 Excel, Power Pivot, Power BI, DAX
