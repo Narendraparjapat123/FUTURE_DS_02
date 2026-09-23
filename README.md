@@ -70,7 +70,7 @@ This master table became the single source of truth for all downstream analysis 
 
   # 🖥️ Dashboard Preview
 
-![Customer Retention & Cohort Analysis](Customer_Retention_&_Cohort_Analysis.png)
+![Customer Retention & Cohort Analysis](Customer_Retention_& _Cohort_Analysis.png)
 
 ### 📊 Dashboard 3: Retention Drivers & Customer Behavior
 - Average Usage, Active Days, CSAT, Features Used
