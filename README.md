@@ -59,7 +59,7 @@ This master table became the single source of truth for all downstream analysis 
 
   # 🖥️ Dashboard Preview
 
-![SAAS Customer Churn & Retention Overview](SAAS_Customer_Churn_&_Retention_Overview.png)
+![SAAS Customer Churn & Retention Overview](SAAS_Customer_Churn_&_Retention_Overview .png)
 
 ### 📊 Dashboard 2: Customer Retention & Cohort Analysis
 - Churn Rate by Signup Month (cohort trend)
