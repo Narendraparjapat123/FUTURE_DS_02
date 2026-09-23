@@ -57,12 +57,20 @@ This master table became the single source of truth for all downstream analysis 
 - Churn Rate by Plan Tier
 - Churn Rate by Billing Frequency
 
+  # 🖥️ Dashboard Preview
+
+![SAAS Customer Churn & Retention Overview](SAAS Customer Churn & Retention Overview.png)
+
 ### 📊 Dashboard 2: Customer Retention & Cohort Analysis
 - Churn Rate by Signup Month (cohort trend)
 - Churn Rate by Industry
 - Churn Rate by Referral Source
 - Churn Rate by Country
 - Filters: Signup Month, Plan Tier, Country, Referral Source, Industry
+
+  # 🖥️ Dashboard Preview
+
+![Customer Retention & Cohort Analysis](Customer Retention & Cohort Analysis.png)
 
 ### 📊 Dashboard 3: Retention Drivers & Customer Behavior
 - Average Usage, Active Days, CSAT, Features Used
@@ -71,6 +79,9 @@ This master table became the single source of truth for all downstream analysis 
 - Churn Rate by Auto-Renew Flag
 - Filters: Plan Tier, Industry, Billing Frequency, Signup Month, Auto Renew Flag
 
+# 🖥️ Dashboard Preview
+
+![Reteintion Driver & Customer Behavior](Reteintion Driver & Customer Behavior.png)
 ---
 
 ## Key Metrics
