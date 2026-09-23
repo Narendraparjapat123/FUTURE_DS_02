@@ -81,7 +81,7 @@ This master table became the single source of truth for all downstream analysis 
 
 # 🖥️ Dashboard Preview
 
-![Reteintion Driver & Customer Behavior](Reteintion Driver & Customer Behavior.png)
+![Reteintion Driver & Customer Behavior](Reteintion_Driver_&_Customer_Behavior.png)
 ---
 
 ## Key Metrics
